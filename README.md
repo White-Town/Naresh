@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Naresh
-- I'm a Penetration Tester Security Researcher
+- I'm a Penetration Tester, Security Researcher
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Mern Stack
 - 💞️ I’m looking to collaborate on IT security
